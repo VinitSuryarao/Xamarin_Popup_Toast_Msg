@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Popup_Toast_Message.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Label  x:Name="Msg" Text=""/>
+            <Button x:Name="btnPopUp" Text="Popup Click" Clicked="btnPopUp_Clicked"/>
+            <Button x:Name="btnToastLong" Text="Toast Long Click" Clicked="btnToastLong_Clicked"/>
+            <Button x:Name="btnToastShort" Text="Toast Short Click" Clicked="btnToastShort_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

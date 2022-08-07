@@ -1,0 +1,15 @@
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\bin\Debug\netstandard2.0\Popup_Toast_Message.deps.json
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\bin\Debug\netstandard2.0\Popup_Toast_Message.dll
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\bin\Debug\netstandard2.0\ref\Popup_Toast_Message.dll
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\bin\Debug\netstandard2.0\Popup_Toast_Message.pdb
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\obj\Debug\netstandard2.0\Popup_Toast_Message.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\obj\Debug\netstandard2.0\Popup_Toast_Message.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\obj\Debug\netstandard2.0\Popup_Toast_Message.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\obj\Debug\netstandard2.0\Popup_Toast_Message.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\obj\Debug\netstandard2.0\Popup_Toast_Message.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\obj\Debug\netstandard2.0\Popup_Toast_Message.dll
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\obj\Debug\netstandard2.0\ref\Popup_Toast_Message.dll
+E:\Study\Code\Xamarin\Popup_Toast_Message\Popup_Toast_Message\obj\Debug\netstandard2.0\Popup_Toast_Message.pdb
